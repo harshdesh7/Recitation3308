@@ -3,8 +3,8 @@ Recitation Exercise
 
 Harsh Deshpande
 
-Partner:
-	Nasurudin Furi
+Partner for Assignment:
+Nasurudin Furi
 
 Lab 4
 
