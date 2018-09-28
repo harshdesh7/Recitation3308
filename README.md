@@ -4,7 +4,7 @@ Recitation Exercise
 Harsh Deshpande
 
 Partner:
- Nasurudin Furi
+	Nasurudin Furi
 
 Lab 4
 
